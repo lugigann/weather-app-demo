@@ -1,0 +1,5 @@
+import requests
+r = request.get(f)
+
+temp.cluj-napoca = r.json()
+return{"Cluj": temp-cluj} 
